@@ -1,0 +1,53 @@
+{
+    "products":[
+        {
+          "id": 1,
+          "imageUrl": "https://www.elecsa-tn.com/wp-content/uploads/2022/09/DMCH-C16-2.png",
+          "altText": "Image 1 - DMCH-C16-2",
+          "title": "DMCH-C16-2"
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://www.elecsa-tn.com/wp-content/uploads/2022/09/Design-sans-titre-27-641x600.png",
+          "altText": "Image 2 - Design sans titre",
+          "title": "Design sans titre"
+        },
+        {
+          "id": 3,
+          "imageUrl": "https://www.elecsa-tn.com/wp-content/uploads/2022/09/wa_sg265221_l-641x600.png",
+          "altText": "Image 3 - WA SG265221 L",
+          "title": "WA SG265221 L"
+        },
+        {
+          "id": 4,
+          "imageUrl": "https://www.elecsa-tn.com/wp-content/uploads/2022/09/wa_sg32722_l-v2-641x600.png",
+          "altText": "Image 4 - WA SG32722 L v2",
+          "title": "WA SG32722 L v2"
+        },
+        {
+          "id": 5,
+          "imageUrl": "https://www.elecsa-tn.com/wp-content/uploads/2022/09/wa_sg32522_l-v2-641x600.png",
+          "altText": "Image 5 - WA SG32522 L v2",
+          "title": "WA SG32522 L v2"
+        },
+        {
+          "id": 6,
+          "imageUrl": "https://www.elecsa-tn.com/wp-content/uploads/2022/09/wa_sg264821_l-v2-641x600.png",
+          "altText": "Image 6 - WA SG264821 L v2",
+          "title": "WA SG264821 L v2"
+        },
+        {
+          "id": 7,
+          "imageUrl": "https://www.elecsa-tn.com/wp-content/uploads/2022/09/wa_sg416620_l-v2-641x600.jpg",
+          "altText": "Image 7 - WA SG416620 L v2",
+          "title": "WA SG416620 L v2"
+        },
+        {
+          "id": 8,
+          "imageUrl": "https://www.elecsa-tn.com/wp-content/uploads/2022/09/wa_sg342920_l-v2-641x600.jpg",
+          "altText": "Image 8 - WA SG342920 L v2",
+          "title": "WA SG342920 L v2"
+        }
+      ]
+      
+}
